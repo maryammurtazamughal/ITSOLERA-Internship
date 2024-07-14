@@ -1,9 +1,9 @@
-#Face Recognition Security Application
+# Face Recognition Security Application
 This repository contains code for a Face Recognition Security Application built using Flask, OpenCV, MTCNN, and FaceNet.
 The application allows real-time face detection and recognition, comparing webcam input with stored face embeddings.
 
-##Features:
-  *Face Detection: Uses MTCNN for detecting faces in images and webcam feeds.
+## Features:
+  * Face Detection: Uses MTCNN for detecting faces in images and webcam feeds.
   *Face Recognition: Utilizes FaceNet for generating and comparing face embeddings.
   *Authorization: Determines if a detected face matches any stored face in the databases
 
