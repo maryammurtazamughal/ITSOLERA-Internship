@@ -9,10 +9,14 @@
   * Authorization: Determines if a detected face matches any stored face in the databases
 
 ## Usage:
+
 ### Uploading Images:
+
       Navigate to the homepage and upload an image file containing a face.
       The application will compare the uploaded face with stored faces in the database and determine authorization status.
+
 ### Using Webcam:
+
       Click the "Start Webcam" button on the homepage to access the webcam feature.
       Allow the browser to access your webcam.
       The application will capture your face and compare it with stored faces in the database in real-time.
@@ -23,7 +27,3 @@
     * FaceNet
     * OpenCV
     * Flask
-
-## Clone the repository:
-  git clone https://github.com/maryammurtazamughal/Security-Application-Using-Face-Recognition.git
-  cd Security-Application-Using-Face-Recognition
