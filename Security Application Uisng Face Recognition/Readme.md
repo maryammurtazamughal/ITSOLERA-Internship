@@ -25,6 +25,5 @@
     * Flask
 
 ## Clone the repository:
-  git clone https://github.com/maryammuratza/facerecognition-security-app.git
-  cd facerecognition-security-app
-
+  git clone https://github.com/maryammurtazamughal/Security-Application-Using-Face-Recognition.git
+  cd Security-Application-Using-Face-Recognition
