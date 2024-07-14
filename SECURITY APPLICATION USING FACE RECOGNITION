@@ -1,3 +1,4 @@
+
 #Face Recognition Security Application
 This repository contains code for a Face Recognition Security Application built using Flask, OpenCV, MTCNN, and FaceNet.
 The application allows real-time face detection and recognition, comparing webcam input with stored face embeddings.
