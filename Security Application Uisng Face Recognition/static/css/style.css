@@ -1,0 +1,30 @@
+.bg-img{
+    background-image: url("../img/pexels-thisisengineering-3861969.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+
+.bg-overlay{
+    background: #00000066!important;
+    padding-top: 200px!important;
+    padding-bottom: 200px!important;
+}
+
+.btn-right{
+    float: inline-end;
+}
+
+#uploadedImage {
+    max-width: 25%; /* Limit image to 100% of container width */
+    height: auto; /* Maintain aspect ratio */
+}
+.mt-5 {
+    margin-top: 3rem;
+}
+
+.mb-5 {
+    margin-bottom: 3rem;
+}
