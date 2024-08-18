@@ -1,3 +1,4 @@
+
 # Computer-Vision Based Cursor Controller
 This project implements a hand gesture recognition system using MediaPipe and Keras, designed to control the computer cursor based on recognized hand gestures.
 The system is trained on a dataset of hand gestures and can recognize various commands such as scrolling up, scrolling down, moving left or right, and more.
