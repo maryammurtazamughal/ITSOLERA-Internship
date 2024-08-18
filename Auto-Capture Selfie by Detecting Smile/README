@@ -1,4 +1,4 @@
-#Auto-capture Selfie by Detecting Smile
+# Auto-capture Selfie by Detecting Smile
 This Streamlit-based application uses OpenCV to detect faces and smiles in real-time from webcam feed. 
 The app automatically captures an image when a smile is detected, or you can manually capture an image using a button. The captured images are saved locally with a timestamp.
 
