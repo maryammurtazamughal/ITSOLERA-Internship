@@ -1,7 +1,7 @@
 
 # ITSOLERA Internship Projects
 
-Welcome to the ITSOLERA Internship repository! This directory contains multiple projects developed during the internship.As the Team Lead in Computer Vision,
+Welcome to the ITSOLERA Internship repository! This directory contains multiple projects developed during the internship. As the Team Lead in Computer Vision,
 I am excited to present these projects, which demonstrate the latest advancements and innovative solutions in our field.
 Each project reflects our dedication to exploring and implementing cutting-edge technologies in computer vision and machine learning.
 
