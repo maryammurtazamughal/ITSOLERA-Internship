@@ -6,9 +6,8 @@ The app automatically captures an image when a smile is detected, or you can man
 * Face Detection: Use OpenCV(haarcascade_frontalface_default.xml) to detect faces in real-time.
 * Smile Detection: Use OpenCV(haarcascade_smile.xml) to detect smiles in real-time.
 * Manual Capture Option: Allows the user to manually capture an image.
-
 ## Prerequisites:
-** Python 3.x
-** OpenCV
-** Streamlit
+* Python 3.x
+* OpenCV
+* Streamlit
 
